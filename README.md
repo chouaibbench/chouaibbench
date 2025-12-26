@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chouaib Benchouaib</h1>
 <h3 align="center">Digital Development Student | Frontend Engineer</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
 ---
 
 ### 🚀 About Me
