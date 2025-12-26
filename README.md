@@ -25,9 +25,7 @@
 ---
 
 ### 📌 Featured Projects
-- 🛒 **CRUD Products App** (React + Redux)
-- 📚 **Library Management** (Java OOP)
-- ✅ **Todo App** (Clean Architecture)
+comming soon
 
 ---
 
