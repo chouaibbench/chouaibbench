@@ -1,19 +1,37 @@
-## 👋 Hi, I'm Chouaib
+<h1 align="center">Hi 👋, I'm Chouaib Benchouaib</h1>
+<h3 align="center">Digital Development Student | Frontend Engineer</h3>
 
-🎓 Digital Development student  
-💻 Frontend Developer (React, JS)  
-🎨 Interested in UI/UX
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-### 🧰 Technologies
-- HTML / CSS / JavaScript
-- React
-- Git & GitHub
-- MySQL
+---
 
-### 📌 Current Goals
-- Build real projects
-- Improve code quality
+### 🚀 About Me
+- 🎓 Digital Development @ OFPPT
+- ⚛️ React & Modern Frontend
+- 🧠 Clean Code & Architecture
+- 🎨 UI/UX & Content Creation
+
+---
+
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+
+---
+
+### 📌 Featured Projects
+- 🛒 **CRUD Products App** (React + Redux)
+- 📚 **Library Management** (Java OOP)
+- ✅ **Todo App** (Clean Architecture)
+
+---
 
 ### 📫 Contact
-- Email : chouaibbenchouaib@gmail.com
-- Linkedin : https://www.linkedin.com/feed/
+📧 Email : chouaibbenchouaib@gmail.com 
+💼 LinkedIn : https://www.linkedin.com/feed/
+🌐 Portfolio (Soon)
