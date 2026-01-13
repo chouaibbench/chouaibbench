@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Digital Development @ OFPPT
+- 🎓 Digital Development
 - ⚛️ React & Modern Frontend
 - 🧠 Clean Code & Architecture
 - 🎨 UI/UX & Content Creation
